@@ -19,3 +19,5 @@ Hospital database – managing patient records and modifying table structure.
 - Understanding how to create and modify tables
 - Difference between TRUNCATE and DROP
 - Managing schema changes effectively
+
+### File: DDL_Commands.sql
