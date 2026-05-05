@@ -22,23 +22,35 @@ Hospital database – managing patient records and modifying table structure.
 
 ### File: DDL_Commands.sql
 
-## 📂 Constraints
+## 📂 Constraints and DML Commands
 
-This section focuses on SQL constraints used to enforce rules and maintain data integrity in database tables.
+### 📄 File: Online_Bookstore_SQL.sql
+
+This section demonstrates SQL concepts related to data integrity and data manipulation using an online bookstore scenario.
 
 ### Topics Covered:
+
+#### 🔹 Constraints
 - PRIMARY KEY
 - FOREIGN KEY
 - UNIQUE
 - CHECK
 
+#### 🔹 DML Commands
+- INSERT
+- SELECT
+- UPDATE
+- DELETE
+- TRUNCATE
+
 ### Scenario:
-Online Bookstore – ensuring valid and consistent data for books and orders.
+Online Bookstore – managing books and orders while ensuring data accuracy and consistency.
 
 ### Key Learning:
-- How to uniquely identify records using PRIMARY KEY
-- Establishing relationships using FOREIGN KEY
-- Preventing duplicate values with UNIQUE constraint
-- Validating data using CHECK constraints
+- Applying constraints to maintain data integrity
+- Establishing relationships between tables using FOREIGN KEY
+- Inserting and retrieving data efficiently
+- Updating and deleting records with conditions
+- Understanding the difference between DELETE and TRUNCATE
 
-### File: Constraints.sql
+### File: DML_Commands & Constraints.sql
