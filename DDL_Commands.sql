@@ -1,3 +1,10 @@
+-- ============================================
+-- Title: DDL Commands Practice
+-- Description: This script demonstrates Data Definition Language (DDL) operations 
+-- including CREATE, ALTER, RENAME, TRUNCATE, and DROP. 
+-- It focuses on managing database structure using a Hospital scenario.
+-- ============================================
+
 -- DDL Commands Practice
 
 -- Creating Database 
