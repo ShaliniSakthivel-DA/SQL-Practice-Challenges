@@ -21,3 +21,24 @@ Hospital database – managing patient records and modifying table structure.
 - Managing schema changes effectively
 
 ### File: DDL_Commands.sql
+
+## 📂 Constraints
+
+This section focuses on SQL constraints used to enforce rules and maintain data integrity in database tables.
+
+### Topics Covered:
+- PRIMARY KEY
+- FOREIGN KEY
+- UNIQUE
+- CHECK
+
+### Scenario:
+Online Bookstore – ensuring valid and consistent data for books and orders.
+
+### Key Learning:
+- How to uniquely identify records using PRIMARY KEY
+- Establishing relationships using FOREIGN KEY
+- Preventing duplicate values with UNIQUE constraint
+- Validating data using CHECK constraints
+
+### File: Constraints.sql
