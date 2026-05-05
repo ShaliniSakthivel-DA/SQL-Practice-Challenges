@@ -54,3 +54,30 @@ Online Bookstore – managing books and orders while ensuring data accuracy and 
 - Understanding the difference between DELETE and TRUNCATE
 
 ### File: DML_Commands & Constraints.sql
+
+## 📂 Clauses and Operators
+
+### 📄 File: Filtering_Operators.sql
+
+This section focuses on SQL clauses and operators used for filtering and querying data.
+
+### Topics Covered:
+- SELECT, DISTINCT, AS
+- WHERE clause
+- Comparison Operators (=, >, <, >=, <>)
+- Logical Operators (AND, OR, NOT)
+- Arithmetic Operations
+- IN and NOT IN
+- BETWEEN and NOT BETWEEN
+- LIKE and NOT LIKE
+- IS NULL and IS NOT NULL
+
+### Scenario:
+E-commerce database – analyzing product and sales data.
+
+### Key Learning:
+- Filtering data using multiple conditions
+- Applying different operators effectively
+- Writing efficient SQL queries for data analysis
+
+### File:Filtering_Operators.sql
