@@ -107,3 +107,44 @@ Sales Analytics database – analyzing customer, product, and order data using S
 - Grouping records for business insights
 - Using aggregate functions for analysis
 - Writing optimized SQL queries for Data Analytics
+
+📊 Sales Analytics SQL Practice – Joins, Aggregations & Date Analysis
+
+This SQL project is built using the Sales_Analytics database and focuses on real-world business analysis using relational data. It includes JOIN operations, aggregate functions, and date/time analysis to extract meaningful insights from sales data.
+
+## 📂 Sales Analytics – Joins, Aggregations & Date Functions
+
+### File: Sales_Analytics_Joins_Aggregations_DateAnalysis.sql
+
+This section focuses on SQL joins, aggregate functions, and date/time functions used for real-world business analysis using the Sales_Analytics database.
+
+### 📌 Topics Covered:
+
+#### 🔗 JOIN Operations
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- Multi-table joins (Customers, Orders, Products, Salespersons)
+
+#### 📊 Built-in Functions + Aggregation
+- SUM, COUNT, MIN, MAX
+- Total sales calculation (Price × Quantity)
+- Top customers by purchase amount
+- Most sold product analysis
+
+#### 📅 Date & Time Functions
+- MONTH() and YEAR() filtering
+- WEEK-wise order analysis
+- DAYNAME() for weekday extraction
+- Custom weekday sorting using FIELD()
+
+### 📊 Scenario:
+Sales Analytics database – analyzing customer purchases, product performance, salesperson contribution, and time-based sales trends.
+
+### 🎯 Key Learning:
+
+- Writing multi-table JOIN queries
+- Performing business sales aggregation
+- Extracting insights using date functions
+- Handling real-world analytical SQL problems
+- Creating structured reporting queries for dashboards
