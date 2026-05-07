@@ -1,5 +1,5 @@
 -- =====================================================
--- File Name : 03_SQL_Clauses_Operators.sql
+-- File Name : SQL_Clauses_Operators.sql
 -- Database  : Sales_Analytics
 -- Author    : Shalini
 -- Description:
