@@ -3,6 +3,8 @@ Structured SQL practice for Data Analyst preparation – includes DDL, DML, Cons
 
 ## 📂 DDL Commands
 
+### File: DDL_Commands.sql
+
 This section covers Data Definition Language (DDL) operations used to define and manage database structure.
 
 ### Topics Covered:
@@ -20,9 +22,9 @@ Hospital database – managing patient records and modifying table structure.
 - Difference between TRUNCATE and DROP
 - Managing schema changes effectively
 
-### File: DDL_Commands.sql
-
 ## 📂 Constraints and DML Commands
+
+### File: DML_Commands & Constraints.sql
 
 ### 📄 File: Online_Bookstore_SQL.sql
 
@@ -53,8 +55,6 @@ Online Bookstore – managing books and orders while ensuring data accuracy and 
 - Updating and deleting records with conditions
 - Understanding the difference between DELETE and TRUNCATE
 
-### File: DML_Commands & Constraints.sql
-
 ## 📂 Clauses and Operators
 
 ### 📄 File: Filtering_Operators.sql
@@ -80,4 +80,30 @@ E-commerce database – analyzing product and sales data.
 - Applying different operators effectively
 - Writing efficient SQL queries for data analysis
 
-### File:Filtering_Operators.sql
+## 📂 SQL Clauses and Operators Practice  
+
+### 📄 File: Sales_Analytics_SQL_Clauses_Operators.sql  
+
+This section focuses on essential SQL clauses, filtering operators, sorting techniques, grouping functions, and aggregate operations used for data analysis.
+
+### Topics Covered:
+- SELECT, DISTINCT, AS
+- WHERE clause
+- Comparison Operators (=, >, <, >=, <>)
+- Logical Operators (AND, OR, NOT)
+- Arithmetic Operations
+- IN and NOT IN
+- IS NULL and IS NOT NULL
+- ORDER BY and LIMIT
+- GROUP BY and HAVING
+- Aggregate Functions (COUNT, SUM, AVG)
+
+### Scenario:
+Sales Analytics database – analyzing customer, product, and order data using SQL queries.
+
+### Key Learning:
+- Filtering data using multiple conditions
+- Sorting and limiting query results
+- Grouping records for business insights
+- Using aggregate functions for analysis
+- Writing optimized SQL queries for Data Analytics
