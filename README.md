@@ -225,3 +225,37 @@ Sales and product database – analyzing customer orders, salesperson performanc
 - Comparing previous and next records using LAG() and LEAD()
 - Calculating running totals and analytical metrics
 - Improving SQL analytical query skills
+
+## 📂 SQL Joins & Built-in Functions
+
+### 📄 File: Day5_Joins_BuiltinFunctions.sql
+
+This section covers SQL JOIN operations and commonly used built-in functions for analytical reporting and database querying.
+
+### Topics Covered:
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- ROUND()
+- ABS()
+- MOD()
+- CONCAT()
+- LENGTH()
+- REPLACE()
+- SUBSTRING()
+- UPPER()
+- LOWER()
+- NOW()
+- DATEDIFF()
+- DATE_ADD()
+
+### Scenario:
+School database – managing student enrollments, course information, text formatting, numeric calculations, and date-based reporting using SQL queries.
+
+### Key Learning:
+- Understanding JOIN operations between tables
+- Retrieving related data using INNER JOIN, LEFT JOIN, and RIGHT JOIN
+- Using numeric functions for calculations and validation
+- Applying string functions for formatting and text manipulation
+- Working with date functions for reporting and scheduling
+- Improving SQL querying and analytical problem-solving skills
