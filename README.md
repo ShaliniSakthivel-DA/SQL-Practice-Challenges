@@ -3,7 +3,7 @@ Structured SQL practice for Data Analyst preparation – includes DDL, DML, Cons
 
 ## 📂 DDL Commands
 
-### File: DDL_Commands.sql
+### 📄 File: DDL_Commands.sql
 
 This section covers Data Definition Language (DDL) operations used to define and manage database structure.
 
@@ -108,43 +108,66 @@ Sales Analytics database – analyzing customer, product, and order data using S
 - Using aggregate functions for analysis
 - Writing optimized SQL queries for Data Analytics
 
-📊 Sales Analytics SQL Practice – Joins, Aggregations & Date Analysis
+Sales Analytics SQL Practice – Joins, Aggregations & Date Analysis
 
 This SQL project is built using the Sales_Analytics database and focuses on real-world business analysis using relational data. It includes JOIN operations, aggregate functions, and date/time analysis to extract meaningful insights from sales data.
 
 ## 📂 Sales Analytics – Joins, Aggregations & Date Functions
 
-### File: Sales_Analytics_Joins_Aggregations_DateAnalysis.sql
+### 📄 File: Sales_Analytics_Joins_Aggregations_DateAnalysis.sql
 
 This section focuses on SQL joins, aggregate functions, and date/time functions used for real-world business analysis using the Sales_Analytics database.
 
-### 📌 Topics Covered:
+### Topics Covered:
 
-#### 🔗 JOIN Operations
+#### JOIN Operations
 - INNER JOIN
 - LEFT JOIN
 - RIGHT JOIN
 - Multi-table joins (Customers, Orders, Products, Salespersons)
 
-#### 📊 Built-in Functions + Aggregation
+#### Built-in Functions + Aggregation
 - SUM, COUNT, MIN, MAX
 - Total sales calculation (Price × Quantity)
 - Top customers by purchase amount
 - Most sold product analysis
 
-#### 📅 Date & Time Functions
+#### Date & Time Functions
 - MONTH() and YEAR() filtering
 - WEEK-wise order analysis
 - DAYNAME() for weekday extraction
 - Custom weekday sorting using FIELD()
 
-### 📊 Scenario:
+### Scenario:
 Sales Analytics database – analyzing customer purchases, product performance, salesperson contribution, and time-based sales trends.
 
-### 🎯 Key Learning:
+### Key Learning:
 
 - Writing multi-table JOIN queries
 - Performing business sales aggregation
 - Extracting insights using date functions
 - Handling real-world analytical SQL problems
 - Creating structured reporting queries for dashboards
+
+## 📂 SQL Subqueries
+### 📄 File: subqueries_practice.sql
+
+This section covers SQL Subqueries used to perform advanced data analysis using nested queries on an E-Commerce database.
+
+### Topics Covered:
+- Single Row Subqueries (returns one value)
+- Multi Row Subqueries (IN, ANY, ALL operators)
+- Correlated Subqueries (inner query depends on outer query)
+- Subqueries with Aggregate Functions (AVG, COUNT)
+- Filtering data using nested SELECT statements
+
+### Scenario:
+
+E-Commerce database containing Customers, Products, Orders, Salespersons, and Categories tables used to analyze customer behavior, product pricing, and sales performance.
+
+### Key Learning:
+- Writing nested queries for complex conditions
+- Understanding difference between Single Row and Multi Row subqueries
+- Using IN, ANY, ALL operators effectively
+- Applying correlated subqueries for row-by-row comparison
+- Building logic for real-world business scenarios
