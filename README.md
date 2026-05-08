@@ -150,7 +150,7 @@ Sales Analytics database – analyzing customer purchases, product performance, 
 - Creating structured reporting queries for dashboards
 
 ## 📂 SQL Subqueries
-### 📄 File: subqueries_practice.sql
+### 📄 File: ecommerce_subqueries_practice.sql
 
 This section covers SQL Subqueries used to perform advanced data analysis using nested queries on an E-Commerce database.
 
