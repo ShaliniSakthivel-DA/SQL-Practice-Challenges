@@ -198,3 +198,30 @@ Sales and product database – analyzing customer purchases, product revenue, sa
 - Creating ranking reports using RANK()
 - Solving business-oriented SQL problems
 - Improving SQL query structuring and readability
+
+## 📂 Window Functions
+
+### 📄 File: Window_Functions_Practice.sql
+
+This section covers SQL Window Functions used for analytical calculations and business reporting.
+
+### Topics Covered:
+- OVER()
+- PARTITION BY
+- RANK()
+- DENSE_RANK()
+- LAG()
+- LEAD()
+- Running Total
+- Aggregate Window Functions
+
+### Scenario:
+Sales and product database – analyzing customer orders, salesperson performance, product rankings, sales trends, and category-wise analysis.
+
+### Key Learning:
+- Understanding how Window Functions work
+- Using PARTITION BY for grouped analysis
+- Creating rankings using RANK() and DENSE_RANK()
+- Comparing previous and next records using LAG() and LEAD()
+- Calculating running totals and analytical metrics
+- Improving SQL analytical query skills
