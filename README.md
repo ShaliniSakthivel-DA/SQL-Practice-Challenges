@@ -174,7 +174,7 @@ E-Commerce database containing Customers, Products, Orders, Salespersons, and Ca
 
   # 📂 SQL CTE Practice Questions & Solutions
 
-### 📄 File: CTE_Practice_Questions.sql
+### 📄 File: CTE_Practice_Solutions.sql
 
 This section covers SQL Common Table Expressions (CTEs) used for data analysis and business reporting scenarios.
 
