@@ -171,3 +171,30 @@ E-Commerce database containing Customers, Products, Orders, Salespersons, and Ca
 - Using IN, ANY, ALL operators effectively
 - Applying correlated subqueries for row-by-row comparison
 - Building logic for real-world business scenarios
+
+  # 📂 SQL CTE Practice Questions & Solutions
+
+### 📄 File: CTE_Practice_Questions.sql
+
+This section covers SQL Common Table Expressions (CTEs) used for data analysis and business reporting scenarios.
+
+### Topics Covered:
+- WITH Clause (CTE)
+- Aggregate Functions
+- GROUP BY
+- INNER JOIN
+- Revenue Calculations
+- Ranking Functions
+- Window Functions
+- Customer & Sales Analysis
+
+### Scenario:
+Sales and product database – analyzing customer purchases, product revenue, salesperson performance, category analysis, and daily sales trends.
+
+### Key Learning:
+- Understanding how to write and use CTEs
+- Performing aggregation using SUM(), AVG(), and COUNT()
+- Using JOIN operations with CTEs
+- Creating ranking reports using RANK()
+- Solving business-oriented SQL problems
+- Improving SQL query structuring and readability
