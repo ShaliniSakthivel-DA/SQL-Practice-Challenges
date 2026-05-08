@@ -228,7 +228,7 @@ Sales and product database – analyzing customer orders, salesperson performanc
 
 ## 📂 SQL Joins & Built-in Functions
 
-### 📄 File: Day5_Joins_BuiltinFunctions.sql
+### 📄 File: Joins-and-Builtin-Functions-Practice.sql
 
 This section covers SQL JOIN operations and commonly used built-in functions for analytical reporting and database querying.
 
