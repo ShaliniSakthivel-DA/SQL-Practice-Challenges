@@ -259,3 +259,35 @@ School database – managing student enrollments, course information, text forma
 - Applying string functions for formatting and text manipulation
 - Working with date functions for reporting and scheduling
 - Improving SQL querying and analytical problem-solving skills
+
+## 📂 SQL Scenario-Based Practice Questions
+
+### 📄 File: SQL_Scenario_Based_Questions.sql
+
+This section covers real-world SQL scenario questions used in data analysis, reporting, customer analysis, employee management, sales tracking, and database optimization.
+
+### Topics Covered:
+- Joins
+- Aggregate Functions
+- Subqueries
+- Window Functions
+- CTE (Common Table Expressions)
+- Indexing
+- Duplicate Record Handling
+- Sales Analysis
+- Customer Analysis
+- Date Functions
+- Ranking Functions
+- Reporting Queries
+
+### Scenario:
+Business sales and employee database – managing customers, employees, departments, products, orders, and sales reports using SQL queries and analytical functions.
+
+### Key Learning:
+- Understanding real-time SQL business scenarios
+- Writing complex JOIN and aggregation queries
+- Using Window Functions like RANK() and LAG()
+- Handling duplicate records efficiently
+- Creating indexes for performance optimization
+- Building sales and reporting queries
+- Improving SQL analytical and problem-solving skills
